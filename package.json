@@ -11,7 +11,6 @@
         "url": "git+https://github.com/ErinJordan222/tech_blog.git"
     },
     "keywords": [],
-    "author": "",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/ErinJordan222/tech_blog/issues"
@@ -26,6 +25,6 @@
         "express-session": "^1.17.3",
         "mysql": "^2.18.1",
         "mysql2": "^2.3.3",
-        "sequelize": "^5.22.5"
+        "sequelize": "^5.21.2"
     }
 }
