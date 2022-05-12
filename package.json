@@ -1,0 +1,31 @@
+{
+    "name": "tech-blog-site",
+    "version": "1.0.0",
+    "description": "Homework 17 for DU Coding",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ErinJordan222/tech_blog.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ErinJordan222/tech_blog/issues"
+    },
+    "homepage": "https://github.com/ErinJordan222/tech_blog#readme",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "connect-session-sequelize": "^6.1.1",
+        "dotenv": "^8.6.0",
+        "express": "^4.18.1",
+        "express-handlebars": "^6.0.5",
+        "express-session": "^1.17.3",
+        "mysql": "^2.18.1",
+        "mysql2": "^2.3.3",
+        "sequelize": "^5.22.5"
+    }
+}
